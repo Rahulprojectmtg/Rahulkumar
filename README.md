@@ -9,8 +9,7 @@ Try online : https://rahulprojectmtg.github.io/Rahulkumar/
 ## Screenshots
 
 <p float="right">
-<img src="portfolio1.png" width="500" />                     
-<img src="portfolio2.png" width="500" />   
+<img src="Rahulprojectmtg/Rahulkumar/portfolio/web.png" width="1000" />  
 </p>
 
 ## 🚀 About Me
